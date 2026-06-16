@@ -7,6 +7,13 @@
 [![GB/T 7713.2-2022](https://img.shields.io/badge/标准-GB/T%207713.2--2022-green)]()
 
 ---
+##注:由于本蒟蒻时间有点不够所以设计了这个初稿版本级别的,那个计划书用的是deepseek v4flash用本skill制作的前两页我还没怎么深度研所以会有点粗糙,不过个人觉得稍微修改一下下就可以达到一般课程设计标准,如果大家比较关注点点星,大家想要支持的更多模板本人也会更加尽心尽力哒,本skill也会不断改进中拯救大家的时间,不要浪费在无聊的课程设计作业中,本人第一次制作如有不完善的地方请见谅,如有完善意见可以找我分享.
+
+<img width="947" height="1213" alt="image" src="https://github.com/user-attachments/assets/9f6b6e7d-d8eb-4413-bf8d-fb0ef75c95d2" />
+<img width="957" height="1186" alt="image" src="https://github.com/user-attachments/assets/21243036-f91f-4069-b649-8022e455b484" />
+<img width="871" height="1180" alt="image" src="https://github.com/user-attachments/assets/6fb44e54-40bb-4820-81b9-ac657b51aab9" />
+<img width="920" height="1181" alt="image" src="https://github.com/user-attachments/assets/c103140f-8cba-4e3c-90bf-84acfcfe6730" />
+
 
 ## 🎯 设计理念
 
