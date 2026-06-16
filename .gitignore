@@ -1,0 +1,5 @@
+# Ignore chart_temp and Python cache
+chart_temp/
+__pycache__/
+*.pyc
+.DS_Store
