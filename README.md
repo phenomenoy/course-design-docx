@@ -6,6 +6,16 @@
 [![matplotlib](https://img.shields.io/badge/matplotlib-≥3.5-orange)]()
 [![GB/T 7713.2-2022](https://img.shields.io/badge/标准-GB/T%207713.2--2022-green)]()
 
+> 🔗 **直接下载 SKILL.md**（在任何 AI 编辑器中安装此技能）：
+>
+> ```
+> https://raw.githubusercontent.com/phenomenoy/course-design-docx/main/SKILL.md
+> ```
+>
+> **Claude Code**：`/skill-install https://raw.githubusercontent.com/phenomenoy/course-design-docx/main/SKILL.md`
+>
+> **CurL 下载**：`curl -LO https://raw.githubusercontent.com/phenomenoy/course-design-docx/main/SKILL.md`
+
 ---
 ##注:由于本蒟蒻时间有点不够所以设计了这个初稿版本级别的,那个计划书用的是deepseek v4flash用本skill制作的前两页我还没怎么深度研所以会有点粗糙,不过个人觉得稍微修改一下下就可以达到一般课程设计标准,如果大家比较关注点点星,大家想要支持的更多模板本人也会更加尽心尽力哒,本skill也会不断改进中拯救大家的时间,不要浪费在无聊的课程设计作业中,本人第一次制作如有不完善的地方请见谅,如有完善意见可以找我分享.
 
